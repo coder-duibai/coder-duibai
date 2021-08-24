@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Jinze Li.
+### Hi there 👋 I'm Dui bai.
 
 - 🌱 I learned nlp and ml/dl in [Tsinghua-Automation](https://www.au.tsinghua.edu.cn/).
 - 💬 Communicate with me: [Zhihu](https://www.zhihu.com/people/coder_duibai).
